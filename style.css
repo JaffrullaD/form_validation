@@ -1,0 +1,23 @@
+form {
+    width: 300px;
+    margin: auto;
+}
+
+input {
+    width: 100%;
+    padding: 4px;
+}
+
+.error {
+    color: red;
+}
+
+input.error-border {
+    border: 2px solid red;
+}
+
+button {
+    width: 100%;
+    background-color: black;
+    color: white;
+}
